@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richearda
 - 👀 I’m interested in learning new things, watching videos and listening to music.
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on other web dveloper to learn new things and enhance my skills.
+- 💞️ I’m looking to collaborate on other web developer to learn new things and enhance my skills.
 - 📫 How to reach me in my facebook, just search my name "Riche Arda".
 
 <!---
